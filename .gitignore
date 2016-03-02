@@ -1,0 +1,9 @@
+/gen/
+/bin/
+.metadata/
+RemoteSystemsTempFiles/
+*.properties
+*.classpath
+*.project
+.settings/
+*.cfg

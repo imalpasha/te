@@ -1,0 +1,8 @@
+<span style="font-size:30px;">
+<p>Available for Malaysia domestic and Singapore flights only. Guests can check-in on the day of departure up to 45 minutes before scheduled flight departure time. However, the kiosk check-in service is not available to the following passengers:</p>
+<ul>
+	<li>Guest(s) travelling with infant(s).</li>
+	<li>Guest(s) with reduced mobility and those with special assistance needs.</li>
+	<li>Bookings with more than 9 passengers.</li>
+</ul>
+</span>

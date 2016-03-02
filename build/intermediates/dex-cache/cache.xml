@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-cee01f609a0b6f9032ed42154e6530de1d0ab3b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\libs\ePOS-Print.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd39b449d287e8ba84d8d0909bfda1b0f1d5ee60">
+        <dex dex="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\build\intermediates\pre-dexed\debug\ePOS-Print-d96094bf9aaf50c6f043da33dd9f17a1c07aa653.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\libs\crashlytics.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e821eafa1bf489a26bdb71f95078c26785b37a1">
+        <dex dex="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\build\intermediates\pre-dexed\debug\crashlytics-6a120721dba7df743928368a7cd509a7eb94739d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\libs\android-query-full.0.26.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="C:\Users\Dell\Desktop\FireflyPrintingKiosk\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.7-6cbc3fc7119502e42ec517be5c6dfdfe6edf22df.jar" />
+    </item>
+
+</items>
